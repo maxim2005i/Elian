@@ -1,0 +1,7 @@
+echo "# Elian" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/maxim2005i/Elian.git
+git push -u origin main

@@ -1,2 +1,3 @@
-тысобакаясобака
-fsdfsdfsdfsdfsdf
+#include <iostream>
+
+int main () {

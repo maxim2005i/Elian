@@ -7,3 +7,7 @@ int main()
 
 	cout<<"Enter two integers: ";
 	cin >> firstNumber >> secondNumber;
+	cout << firstNumber << " + " << secondNumber << " = " << sum;
+	return 0;
+}
+

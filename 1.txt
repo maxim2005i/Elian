@@ -1,1 +1,7 @@
-Осмысленный текст.
+1 Arbidol 782 535.5 Russia Otisfarm 10
+2 Supraks 701 827.0 SaudiArabia AstellasFarma 5
+3 Sinypret 158 505.0 Germany Bionorika 12
+4 Panangin 105 150.5 Hungary GedeonRihter 8
+5 Syprastin 240 122.0 Hungary Egis 17
+6 Cetrine 640 137.5 India DrReddysLaboratory 9
+7 Paracetamol 198 50.0 Russia Farmstandart 12

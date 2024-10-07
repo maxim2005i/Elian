@@ -5,3 +5,4 @@
 5 Syprastin 965 122.0 Hungary Egis 17
 6 Cetrine 477 137.5 India ReddysLaboratories 9
 7 Paracetamol 670 50.0 Russia FarmStandart 8
+8 Noshpa 955 150.7 Russia FarmStandart 2
